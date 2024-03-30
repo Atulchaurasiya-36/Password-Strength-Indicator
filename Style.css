@@ -22,7 +22,7 @@
 .input{
     display: flex;
     background-color: white;
-    /* border: 1px solid black; */
+    border: 1px solid black;
 }
 .input input{
     height: 50px;
@@ -57,7 +57,7 @@ p{
   @media (max-width: 800px) {
     .input input{
         height: 50px;
-        width: 250px;
+        width: 280px;
         font-size: 1rem;
     }
     button{
